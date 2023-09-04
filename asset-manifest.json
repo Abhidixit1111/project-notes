@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abhidixit1111/project-notes/static/css/main.0a43063f.css",
+    "main.js": "/Abhidixit1111/project-notes/static/js/main.2f0b35a7.js",
+    "static/js/787.241534ed.chunk.js": "/Abhidixit1111/project-notes/static/js/787.241534ed.chunk.js",
+    "index.html": "/Abhidixit1111/project-notes/index.html",
+    "main.0a43063f.css.map": "/Abhidixit1111/project-notes/static/css/main.0a43063f.css.map",
+    "main.2f0b35a7.js.map": "/Abhidixit1111/project-notes/static/js/main.2f0b35a7.js.map",
+    "787.241534ed.chunk.js.map": "/Abhidixit1111/project-notes/static/js/787.241534ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a43063f.css",
+    "static/js/main.2f0b35a7.js"
+  ]
+}
